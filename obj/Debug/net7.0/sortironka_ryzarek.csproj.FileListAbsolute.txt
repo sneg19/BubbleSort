@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/sortironka_ryzarek/bin/Debug/net7.0/sortironka_ryzarek
+/home/sneg/Documents/C#/sortironka_ryzarek/bin/Debug/net7.0/sortironka_ryzarek.deps.json
+/home/sneg/Documents/C#/sortironka_ryzarek/bin/Debug/net7.0/sortironka_ryzarek.runtimeconfig.json
+/home/sneg/Documents/C#/sortironka_ryzarek/bin/Debug/net7.0/sortironka_ryzarek.dll
+/home/sneg/Documents/C#/sortironka_ryzarek/bin/Debug/net7.0/sortironka_ryzarek.pdb
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.AssemblyInfo.cs
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.dll
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/refint/sortironka_ryzarek.dll
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.pdb
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/sortironka_ryzarek.genruntimeconfig.cache
+/home/sneg/Documents/C#/sortironka_ryzarek/obj/Debug/net7.0/ref/sortironka_ryzarek.dll
